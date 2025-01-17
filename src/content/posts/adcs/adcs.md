@@ -376,7 +376,7 @@ Done, now we are Domain Admin of the environment!!! Just make sure to keep that 
 
 ![golden](./golden.png)
 
-## Certsync against DCsync
+# Certsync against DCsync
 
 Okay, but almost 98% of red teamers are familiar with **DCSync** and feel comfortable using it. So, what advantages does **CertSync** have?
 
