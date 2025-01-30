@@ -4,7 +4,7 @@ published: 2023-10-19
 description: 'An introductory view of what it is, how it works and practical applications of the API Hooking technique used in defense solutions such as AV/EDR'
 image: './banner.png'
 tags: [red-team, malware]
-category: 'Malware'
+category: 'malware'
 draft: false 
 lang: 'pt-br'
 ---

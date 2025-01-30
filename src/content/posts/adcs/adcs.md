@@ -4,7 +4,7 @@ published: 2025-01-17
 description: 'Certificates can be more interesting than golden tickets..'
 image: './banner.png'
 tags: [red-team, ad, adcs]
-category: 'RedTeam'
+category: 'redteam'
 draft: false 
 lang: ''
 ---

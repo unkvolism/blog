@@ -4,7 +4,7 @@ published: 2023-06-23
 description: 'A little bit about how to use ordinals to hide system calls in C#'
 image: './banner.png'
 tags: [red-team, malware]
-category: 'Malware'
+category: 'malware'
 draft: false 
 lang: ''
 ---

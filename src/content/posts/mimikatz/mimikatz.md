@@ -4,7 +4,7 @@ published: 2023-07-13
 description: 'How to transform mimikatz into shellcode to bypass AVs and EDRs'
 image: './banner.png'
 tags: [red-team, malware]
-category: 'Malware'
+category: 'redteam'
 draft: false 
 lang: ''
 ---

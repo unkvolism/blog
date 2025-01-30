@@ -4,7 +4,7 @@ published: 2024-11-05
 description: 'Using fibers instead of threads to execute shellcode'
 image: './banner.png'
 tags: [red-team, malware]
-category: 'Malware'
+category: 'malware'
 draft: false 
 lang: ''
 ---
